@@ -19,3 +19,6 @@ y = x**2
 
 plt.plot(x, y)
 plt.show()
+
+def jeronimo():
+    print("Hola mundo soy jeronimo")
